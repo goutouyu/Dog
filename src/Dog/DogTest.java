@@ -3,10 +3,10 @@ package Dog;
 public class DogTest {
 public static void main(String[] args) {
 	Dog[] arr=new Dog[4];
-	Dog s1=new Dog("Ğ¡·¼","Å®" ,1);
-	Dog s2=new Dog("Ğ¡Ãú","ÄĞ" ,2);
-	Dog s3=new Dog("Ğ¡·ò","ÄĞ" ,1);
-	Dog s4=new Dog("Ğ¡Àò","Å®" ,2);
+	Dog s1=new Dog("å°èŠ±","å¥³" ,1);
+	Dog s2=new Dog("å°æ˜","ç”·" ,2);
+	Dog s3=new Dog("å°ä¸½","å¥³" ,1);
+	Dog s4=new Dog("å°å","ç”·" ,2);
 	arr[0]=s1;
 	arr[1]=s2;
 	arr[2]=s3;
